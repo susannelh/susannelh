@@ -1,6 +1,4 @@
-👋 Hi, I’m @susannelh
-
-👀 I’m interested in universal things. 
+👋 Hi, I’m @susannelh 
 
 🌱 I’m currently learning webscraping and RAG
 
